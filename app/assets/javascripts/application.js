@@ -10,20 +10,16 @@
 // Read Sprockets README (https://github.com/sstephenson/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require jquery-2.0.3.min
-//= require jquery.easing-1.3.min.js
-//= require modernizr.js
-//= require superfish.js
-//= require jquery.carouFredSel-6.2.1-packed.js
-//= require jquery.themepunch.plugins.min.js
-//= require jquery.themepunch.revolution.min.js
-//= require mediaelement-and-player.min.js
-//= require jquery.fancyboxe45f.js
-//= require jquery.fancybox-media2c70.js
-//= require jquery.donutchart.js
-//= require jflickrfeed.min.js
-//= require jquery.twitter.js
-//= require accordion-functions.js
-//= require theme-functions.js
-//= require jquery.retina.js
-//= require_tree .
+//= require jquery.min
+//= require jquery.plugin.min
+//= require bootstrap.min
+//= require jquery.flexslider-min
+//= require smooth-scroll.min
+//= require skrollr.min
+//= require scrollReveal.min
+//= require isotope.min
+//= require lightbox.min
+//= require scripts
+//= require  modernizr-2.6.2-respond-1.1.0.min
+
+

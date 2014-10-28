@@ -9,12 +9,13 @@
  * compiled file, but it's generally better to create a new file per style scope.
  *
  *= require_self
- *= require style
- *= require media
- *= require revolution
- *= require media-slideshow
- *= require noscript.css
- *= require_tree .
+ *= require font-awesome
+ *= require flexslider.min
+ *= require line-icons.min
+ *= require elegant-icons.min
+ *= require lightbox.min
+ *= require bootstrap.min
+ *= require theme
  */
 
 
